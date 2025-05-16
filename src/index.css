@@ -1,0 +1,7 @@
+@import "tailwindcss";
+.clip-triangle{
+  clip-path: polygon(50% 0%,0% 100%,100% 100%);
+}
+html{
+  scroll-behavior: smooth;
+}
