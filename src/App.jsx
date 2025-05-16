@@ -15,7 +15,7 @@ function App() {
   return (
     <>
     <ModalProvider>
-       <Toaster />
+       <Toaster/>
       <Navbar/>
       <Banner/>
       <LoanSection/>
